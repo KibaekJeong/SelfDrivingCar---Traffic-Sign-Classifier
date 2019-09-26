@@ -111,49 +111,27 @@ Among all of the sign photos, some of the signs are tilted in angle. Also, some 
 Here are the results of the prediction:
 
 | Prediction                    | Actual                        | Result    |
-
-| ------------------------------------------------------------------------ |
-
+|:-----------------------------:|:-----------------------------:|:---------:|
 | Dangerous curve to the right  | Speed limit (60km/h)          | Not Match |
-
 | Traffic signals               | Traffic signals               | Match     |
-
 | Go straight or left           | Go straight or left           | Match     |
-
 | Speed limit (30km/h)          | Speed limit (30km/h)          | Match     |
-
 | Road narrows on the right     | Road narrows on the right     | Match     |
-
 | Road work                     | Road work                     | Match     |
-
 | Turn right ahead              | Ahead only                    | Not Match |
-
 | Speed limit (20km/h)          | Speed limit (20km/h)          | Match     |
-
 | No entry                      | No entry                      | Match     |
-
 | Pedestrians                   | Pedestrians                   | Match     |
-
 | Children crossing             | Children crossing             | Match     |
-
 | Priority road                 | Priority road                 | Match     |
-
 | Speed limit (30km/h)          | Speed limit (30km/h)          | Match     |
-
 | Go straight or left           | Go straight or left           | Match     |
-
 | Bicycles crossing             | Road work                     | Not Match |
-
 | Children crossing             | Children crossing             | Match     |
-
 | Keep left                     | Keep left                     | Match     |
-
 | Turn right ahead              | Turn right ahead              | Match     |
-
 | No passing for vehicles over  | Speed limit (60km/h)          | Not Match |
-
 | Road work                     | Road work                     | Match     |
-
 |------------------------------------------------------------------------|
 
 The model was able to correctly guess 17 of the 20 traffic signs, which gives an accuracy of 85%. This compares favorably to the accuracy on the test set of 95.3%.
