@@ -132,7 +132,6 @@ Here are the results of the prediction:
 | Turn right ahead              | Turn right ahead              | Match     |
 | No passing for vehicles over  | Speed limit (60km/h)          | Not Match |
 | Road work                     | Road work                     | Match     |
-|------------------------------------------------------------------------|
 
 The model was able to correctly guess 17 of the 20 traffic signs, which gives an accuracy of 85%. This compares favorably to the accuracy on the test set of 95.3%.
 
